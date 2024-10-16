@@ -2,4 +2,4 @@
 
 ### Tables 1+2 and Figure 3A and 3J of the related publication
 
-### How to cite this material: 10.5281/zenodo.13939668
+### How to cite this material: https://zenodo.org/records/13939668
